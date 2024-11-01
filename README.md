@@ -1,38 +1,3 @@
-# 测试开发Guide|测试岗位面试题汇总
-
-你好，我是臻叔，曾就职于估值100亿美金的独角兽公司。职位是测试开发工程师。 希望能分享自己的工作技能与工作经验，能带给大家一些帮助。 
-
-标签：python、linux、前端、java、自动化测试、测试工具、devops。
-
-<p align="center">
-  <a href="#测试开发Guide"><img src="https://img.shields.io/badge/公众号-测试开发Guide-brightgreen" alt="公众号"></a>
-  <a href="https://space.bilibili.com/382166537"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" alt="哔哩哔哩"></a>
-  <a href="https://www.zhihu.com/people/nethuangdz"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
-  <a href="https://me.csdn.net/dzreal93"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
-  <a href="https://testerhome.com/GitDzreal93"><img src="https://img.shields.io/badge/testerhome-testerhome-blue" alt="testerhome"></a>
-  <a href="https://www.jianshu.com/u/ec56cfd67d3c"><img src="https://img.shields.io/badge/jianshu-简书-critical" alt="简书"></a>
-  <a href="https://juejin.im/user/5921aec3da2f60005d533584"><img src="https://img.shields.io/badge/juejin-掘金-blue" alt="掘金"></a>
-  <a href="https://my.oschina.net/u/3312441"><img src="https://img.shields.io/badge/OSChina-开源中国-green" alt="开源中国"></a>
-</p>
-
-# 前言(善用Ctrl+F)
-
-根据我工作几年来的面试经验，加上之前收集的资料，整理出来350+道字节跳动、阿里、腾讯、百度、快手、美团等大厂常考的面试题。
-
-虽然这篇文章很长，但是绝对值得你点击一下star。
-
-祝大家顺利拿到心仪的offer。
-
-**面试题后续会第一时间更新在微信公众号上，感兴趣的可以扫码关注**
-
-<p align="center">
-<img src="http://tva1.sinaimg.cn/large/006F2AR3gy1gdpuoikhq7j32060jsdl8.jpg"width="" style="margin: 0 auto;"/>  
-</p>
-
-![](http://tva1.sinaimg.cn/large/006F2AR3gy1gdpsdb0u7nj31062nxti1.jpg)
-
-
-
 # 目录
 
 ### 一、开场白
@@ -771,8 +736,3 @@
 > Q：为什么要离职？
 >
 > Q：你的期望薪资是多少？
-
-
-# 关于我
-
- [【关于我】](http://mp.weixin.qq.com/s?__biz=MzAxMTA2OTY0Nw==&mid=301785273&idx=1&sn=feedd9980f4d5027e2bd2e4e59b2ef14&chksm=0f4ef1193839780f802d1ffa152a785682a514383ee27840727f17e9ecb8a783a558af50f6ac#rd)。
